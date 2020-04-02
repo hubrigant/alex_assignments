@@ -5,6 +5,7 @@ Assignment #2: tic-tac-toe
 3)  Write a simplified form of the game that displays the current grid (starting with empty) 
     and asks the player to select which cell to put an X in. Program stops when all 9 cells 
     are full. The program automatically fills in Xs without the player having to tell it.
+    It also displays the new grid after each move.
 4)  Update simplified form where the player is asked for both which cell and which letter 
     to enter.
 5)  Update #4 to check that the player entered either an X or an O
